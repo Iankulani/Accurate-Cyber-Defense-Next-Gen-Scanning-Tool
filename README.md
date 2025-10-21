@@ -31,4 +31,8 @@ cd Accurate-Cyber-Defense-Next-Gen-Scanning-Tool
 
 **How to run**
 
-python Accurate-Cyber-Defense-Next-Gen-Scanning-Too
+python Accurate-Cyber-Defense-Next-Gen-Scanning-Tool
+
+
+<img width="1085" height="971" alt="Screenshot (1089)" src="https://github.com/user-attachments/assets/3c5d189b-b7d8-4e17-8284-5e0ab17d0481" />
+
