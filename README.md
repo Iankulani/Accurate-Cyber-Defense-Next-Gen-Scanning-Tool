@@ -23,15 +23,21 @@ Deployments can be self-hosted, cloud-managed, or hybrid, with granular policy c
 It also includes a threat-hunting sandbox, customizable dashboards for executive and SOC views, and a simulation mode for validating patch workflows before rollout. 
 Continuous support and regular intelligence updates ensure the platform adapts to emerging attack techniques and compliance changes seamlessly.
 
-**How to clone the repo**
+
+```bash
+## How to clone the repo**
 
 git clone https://github.com/Iankulani/Accurate-Cyber-Defense-Next-Gen-Scanning-Tool.git
 
 cd Accurate-Cyber-Defense-Next-Gen-Scanning-Tool
+```
 
-**How to run**
+## How to run
 
+```bash
 python Accurate-Cyber-Defense-Next-Gen-Scanning-Tool
+
+```
 
 
 <img width="1085" height="971" alt="Screenshot (1089)" src="https://github.com/user-attachments/assets/3c5d189b-b7d8-4e17-8284-5e0ab17d0481" />
